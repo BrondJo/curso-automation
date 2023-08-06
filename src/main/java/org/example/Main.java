@@ -9,5 +9,13 @@ public class Main {
         System.out.println(3);
 
 
+        //datos primitivos, ejemplos
+
+        int numero=2;
+        char letra='a';
+        boolean buleano=true;
+        String frase="hola mundo";
+
+
     }
 }
